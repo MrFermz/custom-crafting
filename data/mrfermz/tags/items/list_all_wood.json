@@ -6,6 +6,7 @@
         "minecraft:jungle_log",
         "minecraft:acacia_log",
         "minecraft:dark_oak_log",
+        "minecraft:mangrove_log",
         "minecraft:crimson_stem",
         "minecraft:warped_stem",
         "minecraft:oak_wood",
@@ -14,6 +15,7 @@
         "minecraft:jungle_wood",
         "minecraft:acacia_wood",
         "minecraft:dark_oak_wood",
+        "minecraft:mangrove_woord",
         "minecraft:crimson_hyphae",
         "minecraft:warped_hyphae",
         "minecraft:stripped_oak_log",
@@ -22,6 +24,7 @@
         "minecraft:stripped_jungle_log",
         "minecraft:stripped_acacia_log",
         "minecraft:stripped_dark_oak_log",
+        "minecraft:stripped_mangrove_log",
         "minecraft:stripped_crimson_stem",
         "minecraft:stripped_warped_stem",
         "minecraft:stripped_oak_wood",
@@ -30,6 +33,7 @@
         "minecraft:stripped_jungle_wood",
         "minecraft:stripped_acacia_wood",
         "minecraft:stripped_dark_oak_wood",
+        "minecraft:stripped_mangrove_wood",
         "minecraft:stripped_crimson_hyphae",
         "minecraft:stripped_warped_hyphae"
     ]
